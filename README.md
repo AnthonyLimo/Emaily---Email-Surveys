@@ -2,3 +2,5 @@
 Emaily allows you to email clients who've used your app/service with surveys
 
 ### Complete Project coming soon
+
+Check out the app on Heroku
